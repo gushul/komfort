@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: komfort_development
+  pool: 5
+  username: oleg
+  password: 664578
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: komfort_test
+  pool: 5
+  username: oleg
+  password: 664578
